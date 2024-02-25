@@ -153,6 +153,9 @@ plt.show()
 ```
 
 ### OUTPUT
+
+
 ![data_of_studets_left](https://github.com/PradeepSahhu/DBMS_caseStudy/assets/94203408/77ab0dc0-eac6-42ef-9c8f-5286f03016da)
+
 
 
